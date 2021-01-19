@@ -12,9 +12,11 @@ The codes include:
 
 + `Extract_each_spaxel_as_spectrum.ipynb` : a Jupyter notebook showing how to extract a spectrum from each spectral pixel (spaxel) of the MUSE data-cube; this is a relevant step of the data-processing procedure for prepearing the data for the [_FADO_ pipeline](https://www.aanda.org/articles/aa/abs/2017/07/aa28986-16/aa28986-16.html)
 
-4)How to measure fluxes with mpdaf: `Flux_measurements_mpdaf.ipynb`
+#### Data analysis codes:
 
-5)How to plot (emission) maps: `EL_maps.ipynb`
++ `Flux_measurements_mpdaf.ipynb` : a Jupyter notebook showing how to measure fluxes of strong emission lines from a galaxy spectrum using the [_MPDAF_ package] 
+
++ `EL_maps.ipynb`:  a Jupyter notebook showing how to plot (emission-line) maps from the output tables of  the [_FADO_ pipeline]
 
 6)How to plot BPT with shock models: `Diagnostic_diag_with_shock_grids.ipynb`
 
