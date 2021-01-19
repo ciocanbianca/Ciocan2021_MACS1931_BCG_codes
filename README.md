@@ -6,7 +6,7 @@ The codes include:
 
 ## Data processing codes:
 
-+`AlignCubes.ipynb`: a Jupyter notebook for correcting the astrometric mismatch between MUSE and Subaru data 
++ `AlignCubes.ipynb`: a Jupyter notebook for correcting the astrometric mismatch between MUSE and Subaru data 
  
 
 +)MUSE-ALMA (velocity) difference maps: `MUSE_ALMA_velocity_difference_maps.ipynb`
