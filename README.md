@@ -1,10 +1,10 @@
-## Codes and calculations for Ciocan et al. 2021 
+# Codes and calculations for Ciocan et al. 2021 
 
 This repository contains some of the codes and calculations (contained in Jupyter Python notebooks) associated with our recent paper about the ALMA and MUSE observations of the cool core brightest cluster galaxy in MACS 1931.8-2635 (Ciocan et al. 2021).  
 
 The codes include:
 
-# Data processing codes:
+## Data processing codes:
 
 +)`AlignCubes.ipynb`: a Jupyter notebook for correcting the astrometric mismatch between MUSE and Subaru data 
  
