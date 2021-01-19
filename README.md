@@ -10,7 +10,7 @@ The codes include:
 
 + `MUSE_ALMA_velocity_difference_maps.ipynb`: a Jupyter notebook for creating MUSE-ALMA difference or ratio maps. For this example, we have created MUSE - ALMA velocity difference maps. 
 
-+)How to extract a spectrum from each spaxel of data-cube: `Extract_each_spaxel_as_spectrum.ipynb`
++ `Extract_each_spaxel_as_spectrum.ipynb` : a Jupyter notebook showing how to extract a spectrum from each spectral pixel (spaxel) of the MUSE data-cube; this is a relevant step of the data-processing procedure for prepearing the data for the [_FADO_ pipeline](https://www.aanda.org/articles/aa/abs/2017/07/aa28986-16/aa28986-16.html)
 
 4)How to measure fluxes with mpdaf: `Flux_measurements_mpdaf.ipynb`
 
