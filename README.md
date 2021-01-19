@@ -6,10 +6,10 @@ The codes include:
 
 #### Data processing codes:
 
-+ `AlignCubes.ipynb`: a Jupyter notebook for correcting the astrometric mismatch between MUSE and Subaru data. This code uses the [_MPDAF_ package](https://ui.adsabs.harvard.edu/abs/2016ascl.soft11003B/abstract)
++ `AlignCubes.ipynb`: a Jupyter notebook for correcting the astrometric mismatch between MUSE and Subaru data. This code mainly uses the [_MPDAF_ package](https://ui.adsabs.harvard.edu/abs/2016ascl.soft11003B/abstract, a python package specially designed to work with MUSE-specific data.
  
 
-+)MUSE-ALMA (velocity) difference maps: `MUSE_ALMA_velocity_difference_maps.ipynb`
++ `MUSE_ALMA_velocity_difference_maps.ipynb`: a Jupyter notebook for creating MUSE-ALMA difference or ratio maps. For this example, we have created MUSE - ALMA velocity difference maps. 
 
 +)How to extract a spectrum from each spaxel of data-cube: `Extract_each_spaxel_as_spectrum.ipynb`
 
