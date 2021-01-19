@@ -4,9 +4,9 @@ This repository contains some of the codes and calculations (contained in Jupyte
 
 The codes include:
 
-## Data processing codes:
+#### Data processing codes:
 
-+ `AlignCubes.ipynb`: a Jupyter notebook for correcting the astrometric mismatch between MUSE and Subaru data 
++ `AlignCubes.ipynb`: a Jupyter notebook for correcting the astrometric mismatch between MUSE and Subaru data. This code uses the [_MPDAF_ package](https://ui.adsabs.harvard.edu/abs/2016ascl.soft11003B/abstract)
  
 
 +)MUSE-ALMA (velocity) difference maps: `MUSE_ALMA_velocity_difference_maps.ipynb`
