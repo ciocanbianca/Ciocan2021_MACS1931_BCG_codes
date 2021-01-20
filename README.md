@@ -26,19 +26,19 @@ The codes include:
 
 ### Requrements:
 This is a list of python packages required to run the notebooks. The codes should work with older versions of these packages as well.
-+ astropy 4.0
-+ glob2 0.7
-+ image-registration 0.2.4 
-+ matplotlib 3.3.2
-+ mpdaf 3.4
-+ numpy 1.19.2
-+ pandas 1.2.0
-+ pymysql 0.9.3 
-+ reproject 0.7.1
-+ scipy 1.5.2 
++ `astropy 4.0`
++ `glob2 0.7`
++ `image-registration 0.2.4` 
++ `matplotlib 3.3.2`
++ `mpdaf 3.4`
++ `numpy 1.19.2`
++ `pandas 1.2.0`
++ `pymysql 0.9.3` 
++ `reproject 0.7.1`
++ `scipy 1.5.2`
 
 For nice colour maps:
-+ cmasher 1.5.7
++ `cmasher 1.5.7`
 
 
 Feel free to contact me in case there are any questions! _ciocan.bianca-iulia@univie.ac.at_
