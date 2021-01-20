@@ -24,6 +24,21 @@ The codes include:
 
 + `Velocity_plots_GIST.ipynb`: a Jupyter notebook showing how to plot stellar kinematic maps from the output files of the [_GIST_ pipeline](https://abittner.gitlab.io/thegistpipeline/V3.0.3-doc1/) ([Bittner et al. 2019](https://ui.adsabs.harvard.edu/abs/2019A%26A...628A.117B/abstract) ) 
 
+### Requrements:
+This is a list of python packages required to run the notebooks. The codes should work with older versions of these packages as well.
++ astropy 4.0
++ glob2 0.7
++ image-registration 0.2.4 
++ matplotlib 3.3.2
++ mpdaf 3.4
++ numpy 1.19.2
++ pandas 1.2.0
++ pymysql 0.9.3 
++ reproject 0.7.1
++ scipy 1.5.2 
+
+For nice colour maps:
++ cmasher 1.5.7
 
 
 Feel free to contact me in case there are any questions! _ciocan.bianca-iulia@univie.ac.at_
