@@ -40,7 +40,7 @@ This is a list of python packages required to run the notebooks. The codes shoul
 For nice colour maps:
 + `cmasher v1.5.7`
 
-See `requirements-list_of_all_packages.txt` for a list with all python packages from the anaconda environment used for the codes.
+See [requirements-list_of_all_packages.txt](requirements-list_of_all_packages.txt) for a list with all python packages from the anaconda environment used for the codes.
 
 ___
 Feel free to contact me in case there are any questions! _ciocan.bianca-iulia@univie.ac.at_
