@@ -16,7 +16,7 @@ The codes include:
 
 + `Flux_measurements_mpdaf.ipynb` : a Jupyter notebook showing how to measure fluxes of strong emission lines from a galaxy spectrum using the _MPDAF_ package
 
-+ a python package to read the oputput of the _FADO_ pipeline: [_pyFADO_](https://github.com/miguelverdugo/pyFADO)
++ a python package to read the output files of the _FADO_ pipeline: [_pyFADO_](https://github.com/miguelverdugo/pyFADO)
 
 + `EL_maps.ipynb`:  a Jupyter notebook showing how to plot (emission-line) maps from the output tables of the _FADO_ pipeline
 
